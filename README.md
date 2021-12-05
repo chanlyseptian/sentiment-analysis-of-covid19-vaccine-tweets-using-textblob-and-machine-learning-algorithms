@@ -10,16 +10,16 @@ Step :
 
 
 
-Dataset (Jan 2020-Mar 2021) : 161251
+Dataset (Jan 2020-Mar 2021) : 161.251
 
 ![textblob](https://user-images.githubusercontent.com/37769960/144741330-761efd20-d803-4620-b915-d0b493d6ef59.png)
 
 
--Neutral  : 72396 
+-Neutral  : 72.396 
 
--Positive : 67519
+-Positive : 67.519
 
--Negative : 21327
+-Negative : 21.327
 
 
 
