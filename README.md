@@ -24,7 +24,7 @@
 
 
 
-#### Accuracy : 
+#### Model Accuracy : 
 
 - Logistic Regression	  : 0.90
 
